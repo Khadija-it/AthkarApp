@@ -7,10 +7,10 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Electronic Subha</string>
-    <string name="menu_gallery">Athkar</string>
-    <string name="menu_slideshow">Guidance Offices</string>
-    <string name="menu_tools">Connect us</string>
-    <string name="menu_share">Share</string>
-    <string name="menu_send">Send</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Electronic Subha</string>
+    <string name="menu_slideshow">Athkar</string>
+    <string name="menu_tools">Guidance Offices</string>
+    <string name="menu_share">Connect us</string>
+    <string name="menu_send">our location </string>
 </resources>
